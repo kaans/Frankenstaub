@@ -12,7 +12,7 @@
 
 [Eine Schritt für Schritt Anleitung findest du auf der Seite der Sensor Community](https://luftdaten.info/feinstaubsensor-bauen/)
 
-## Optionale Schritte
+## Zukünftige Erweiterungen
 
 Der Feinstaubsensor kann noch durch viele Sensoren erweitert werden und sogar die
 aktuellen Daten auf einem Display anzeigen. Auch kann die Konfiguration noch

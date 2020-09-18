@@ -15,6 +15,7 @@ Oben findest du die Links zu den einzelnen Schritten.
 ## Allgemeine Infos zu Feinstaub
 
 - [Stationen und Messwerte Nürnberg](http://umweltdaten.nuernberg.de/aussenluft/stadt-nuernberg.html)
+- [Stationen und Messwerte LFU](https://www.lfu.bayern.de/luft/immissionsmessungen/messwerte/stationen/detail/index.htm)
 
 ## Infos und Links zum Sensor
 
