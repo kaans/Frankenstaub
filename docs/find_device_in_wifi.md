@@ -8,7 +8,7 @@
 
 [Vorheriger Schritt](configure_device.md)
 
-# Sensor im heimischen WLAN finden
+# Sensor im WLAN finden
 
 1. Sicherstellen, dass der Sensor Strom hat und mit dem [richtigen WLAN eingerichtet ist](configure_device.md)
 2. Einen Browser öffnen
