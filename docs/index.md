@@ -12,9 +12,14 @@ Oben findest du die Links zu den einzelnen Schritten.
 
 [Hier geht es los](build_sensor.md)
 
-## Infos und Links
+## Allgemeine Infos zu Feinstaub
+
+- [Stationen und Messwerte Nürnberg](http://umweltdaten.nuernberg.de/aussenluft/stadt-nuernberg.html)
+
+## Infos und Links zum Sensor
 
 - [Bauanleitung](https://luftdaten.info/feinstaubsensor-bauen/)
+- [Neuere Bauanleitung mit alternativem Temperatursensor](https://sensor.community/de/sensors/airrohr/)
 - [Startseite der (weltweiten) Sensor Community](https://sensor.community/en/)
 - [Geräteverwaltung](https://devices.sensor.community/)
 - [Login für Geräteverwaltung](https://devices.sensor.community/login)
